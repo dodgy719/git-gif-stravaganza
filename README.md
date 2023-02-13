@@ -100,7 +100,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Scott
-![tired](https://github.com/dodgy719/git-gif-stravaganza.git)
+![tired](https://media.giphy.com/media/26BGqofNXjxluwX0k/giphy.gif)
 
 
 # Shamarcus
