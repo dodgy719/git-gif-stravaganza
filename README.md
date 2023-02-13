@@ -16,11 +16,11 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 # Names
 # Abhineet
-
+![merge](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
 
 # Richard
-
+![Day at the office](https://media.giphy.com/media/J1GAXscOoTYWzjNANG/giphy-downsized-large.gif)
 
 
 # Aidan
@@ -36,11 +36,11 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Allen
-
+![Pizza Time.](https://c.tenor.com/iHLHKfvRblIAAAAC/tenor.gif)
 
 
 # Carolyn
-
+![Did a pull request!](https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif)
 
 
 # Cole
@@ -48,7 +48,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # EJ
-
+![merge](https://media.giphy.com/media/LZQsVAzgB6sE0/giphy.gif)
 
 
 # Jasmine
@@ -61,7 +61,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 # Justen
 
-
+![How I'm Feeling](https://media.giphy.com/media/QE8hREXIgRXeo/giphy.gif)
 
 # Karl
 
@@ -72,10 +72,11 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Matt
-
+![MFrost-giph](https://media0.giphy.com/media/3ohjUP97yVFFW4CJfq/200.webp)
 
 
 # Nikhil
+![merge](https://media.giphy.com/media/au1ZeAGhOhhBGnRkDb/giphy.gif)
 
 
 
@@ -92,23 +93,23 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Roland
-
+![Mondays Hit Hard](https://media.giphy.com/media/tqj4m9BRURayxQAIW9/giphy.gif)
 
 
 # Saketh
-
+![Sleepy](https://media.giphy.com/media/Md43W2Q9mwNdO1ARzu/giphy.gif)
 
 
 # Scott
-
+![tired](https://media.giphy.com/media/26BGqofNXjxluwX0k/giphy.gif)
 
 
 # Shamarcus
 
 
-
+![woo](https://media.giphy.com/media/LKP5dH6hzLniiRVNIp/giphy.gif)
 # Shane
-
+![merge](https://media.giphy.com/media/37qWhxRsix2p0cRgJP/giphy-downsized-large.gif)
 
 
 # Stroud
@@ -124,7 +125,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 ![Monday](https://media.giphy.com/media/bEs40jYsdQjmM/giphy-downsized-large.gif)
 
 # Zach
-
+![Tired](https://media.giphy.com/media/2wYrkKvETbAwWAM4Gy/giphy.gif)
 
 
 # Zomi
