@@ -40,7 +40,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Carolyn
-
+![Did a pull request!](https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif)
 
 
 # Cole
