@@ -24,6 +24,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Aidan
+![merge](https://media.giphy.com/media/MaOwbngkW0uM5DWa0z/giphy-downsized.gif)
 
 
 
