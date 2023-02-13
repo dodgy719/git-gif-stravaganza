@@ -20,7 +20,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Richard
-![Amazingness!](https://media.giphy.com/media/J1GAXscOoTYWzjNANG/giphy.gif)
+![Day at the office](https://media.giphy.com/media/J1GAXscOoTYWzjNANG/giphy-downsized-large.gif)
 
 
 # Aidan
@@ -36,7 +36,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Allen
-
+![Pizza Time.](https://c.tenor.com/iHLHKfvRblIAAAAC/tenor.gif)
 
 
 # Carolyn
@@ -72,10 +72,11 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Matt
-
+![MFrost-giph](https://media0.giphy.com/media/3ohjUP97yVFFW4CJfq/200.webp)
 
 
 # Nikhil
+![merge](https://media.giphy.com/media/au1ZeAGhOhhBGnRkDb/giphy.gif)
 
 
 
@@ -121,7 +122,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 # Walter
 
-
+![Monday](https://media.giphy.com/media/bEs40jYsdQjmM/giphy-downsized-large.gif)
 
 # Zach
 ![Tired](https://media.giphy.com/media/2wYrkKvETbAwWAM4Gy/giphy.gif)
