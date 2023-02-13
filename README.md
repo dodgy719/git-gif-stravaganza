@@ -1,0 +1,1 @@
+# git-gif-stravaganza
