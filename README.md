@@ -113,7 +113,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Stroud
-
+![Monday](https://media.giphy.com/media/FcuiZUneg1YRAu1lH2/giphy.gif)
 
 
 # Trase
