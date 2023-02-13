@@ -121,7 +121,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 # Walter
 
-
+("https://giphy.com/gifs/bEs40jYsdQjmM")
 
 # Zach
 
