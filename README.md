@@ -27,7 +27,6 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 ![merge](https://media.giphy.com/media/MaOwbngkW0uM5DWa0z/giphy-downsized.gif)
 
 
-
 # Alameen
 
 
