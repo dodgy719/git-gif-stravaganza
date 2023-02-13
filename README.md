@@ -92,7 +92,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Roland
-
+![Mondays Hit Hard](https://media.giphy.com/media/tqj4m9BRURayxQAIW9/giphy.gif)
 
 
 # Saketh
