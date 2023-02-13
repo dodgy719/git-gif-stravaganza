@@ -81,7 +81,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Nuri
-
+![Nuri's Feeling](https://media.giphy.com/media/9GI7UlOQ6uU95v82q7/giphy-downsized.gif)
 
 
 # Prince
