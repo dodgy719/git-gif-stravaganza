@@ -20,7 +20,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Richard
-![Amazingness!](https://media.giphy.com/media/J1GAXscOoTYWzjNANG/giphy.gif)
+![Day at the office](https://media.giphy.com/media/J1GAXscOoTYWzjNANG/giphy-downsized-large.gif)
 
 
 # Aidan
