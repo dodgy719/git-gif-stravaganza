@@ -59,7 +59,6 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 [!merge](https://media.giphy.com/media/TUYZ6QnRpXp0orbhv7/giphy.gif)
 
 
-
 # Justen
 
 
