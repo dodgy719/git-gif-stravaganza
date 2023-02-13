@@ -16,7 +16,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 # Names
 # Abhineet
-
+![merge](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
 
 
 # Richard
