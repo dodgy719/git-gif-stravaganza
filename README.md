@@ -52,7 +52,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Jasmine
-
+![Monday mood](https://giphy.com/gifs/bq6F8QYqBU7Yc)
 
 
 # Joshua
