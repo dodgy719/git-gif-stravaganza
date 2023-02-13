@@ -1,7 +1,5 @@
 # Git-Gif-Stravaganza
 
-# edited
-
 ## Guided Git GIF-STRAVAGANZA
 
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a Git branching workflow so we can all contribute to this README file.
@@ -56,7 +54,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 # Nuri
 
-![Nuri's Feeling](https://media.giphy.com/media/9GI7UlOQ6uU95v82q7/giphy-downsized.gif)
+![Current Mood](https://media.giphy.com/media/9GI7UlOQ6uU95v82q7/giphy-downsized.gif)
 
 # Prince
 
