@@ -28,7 +28,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Alameen
-![monday](https://media.giphy.com/media/3Nx2u302uH2V7ah2nv/giphy-downsized-large.gif)
+![monday](https://media.giphy.com/media/Cvbrfhyr7yZ77Kpwxu/giphy.gif)
 
 
 # Aleks
