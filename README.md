@@ -44,7 +44,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Cole
-
+![Pull request](https://media.giphy.com/media/5UKCYVAaYUPcFreMPI/giphy-downsized-large.gif)
 
 
 # EJ
