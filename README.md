@@ -108,7 +108,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # Shane
-
+![merge](https://media.giphy.com/media/37qWhxRsix2p0cRgJP/giphy-downsized-large.gif)
 
 
 # Stroud
