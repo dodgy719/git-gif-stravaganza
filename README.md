@@ -48,7 +48,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 
 
 # EJ
-
+![merge](https://media.giphy.com/media/LZQsVAzgB6sE0/giphy.gif)
 
 
 # Jasmine
