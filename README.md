@@ -107,7 +107,7 @@ Today's challenge is to contribute to a Git repository, using branches and pull 
 # Shamarcus
 
 
-
+![woo](https://media.giphy.com/media/LKP5dH6hzLniiRVNIp/giphy.gif)
 # Shane
 ![merge](https://media.giphy.com/media/37qWhxRsix2p0cRgJP/giphy-downsized-large.gif)
 
